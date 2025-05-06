@@ -1,0 +1,14 @@
+[
+  {
+    "binary_string": "111010010101",
+    "decimal_value": 3733,
+    "remainder": 1,
+    "final_state": "S1"
+  },
+  {
+    "binary_string": "111000100",
+    "decimal_value": 452,
+    "remainder": 2,
+    "final_state": "S2"
+  }
+]

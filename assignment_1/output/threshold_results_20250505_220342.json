@@ -1,0 +1,9 @@
+{
+  "best_threshold": 0.2,
+  "parameters": {
+    "data_path": "assignment_1/data/model_metrics.csv",
+    "min_recall": 0.9,
+    "optimization_metric": "precision",
+    "chunk_size": null
+  }
+}
